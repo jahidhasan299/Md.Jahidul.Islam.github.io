@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of combining vision and language modalities](/images/mine.jpg){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/profile.png){: .align-right width="300px"}
 
 📚 I am a first year PhD student working on Medical Imaging at the University of Chinese Academy of Science. My work is funded by the [Paul C Lauterbur Research Center](http://english.siat.cas.cn/) and supervised by [Prof. Shanshan Wang](https://scholar.google.com/citations?user=8pnz5L4AAAAJ&hl=en). 
 Previously, I completed MSc in 👨🏻‍💻 Software Engineering at [Northeastern University](http://sc.neu.edu.cn/english/), China, and a BSc in 👨🏻‍💻 Software Engineering at [Chongqing University of Posts and Telecommunications](https://software-en.cqupt.edu.cn/), China.
