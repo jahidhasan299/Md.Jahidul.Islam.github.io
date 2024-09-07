@@ -1,0 +1,22 @@
+ # - title: "Guide"
+ #   url: /markdown/
+
+main:
+  - title: "Resume"
+    url: /files/Resume.pdf
+    
+  - title: "Publications"
+    url: https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=AC6lMd8uqfbspLwGt-Qk1YGWMOfkkp7XyyWPD8fp2BhBFMXMWIyvqrYP2WqsC_d9yG307f6fj4QFbTZe-iVi1r1BPGUx&user=9Hzmr9wAAAAJ
+
+  - title: "Portfolio"
+    url: /portfolio/
+
+  - title: "Blog Posts"
+    url: /year-archive/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+
